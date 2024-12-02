@@ -1,0 +1,21 @@
+img {
+ max-width: 200px;
+ padding:60px;
+ margin: 60px;
+ border-color: black;
+ flex: auto;
+ overflow: auto;
+ 
+}
+.top {
+background-color: aqua;
+padding: 20px;
+flex: auto; 
+
+}
+
+.middle {
+   
+background-color: pink;
+
+}
